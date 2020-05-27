@@ -89,8 +89,6 @@
                       </div>
                     </article>
                 
-                </section>
-
               <!-- Section -->
                 <section>
                   <header class="major">
@@ -149,7 +147,6 @@
                 </section>
 
             </div>
-          </div>
 
         <!-- Sidebar -->
           <div id="sidebar">
